@@ -1,3 +1,17 @@
 .social-icons {
 	text-decoration: none !important;
 }
+.hero-image {
+	background-image: url("https://source.unsplash.com/wl5AypUmamo/1600x900");
+	background-repeat: no-repeat;
+  	background-size: auto;
+	color: #ffffff;
+}
+.intro {
+	padding: 150px 550px 550px;
+}
+.follow-me {
+	padding-right: 20px;
+	padding-bottom: 20px;
+	text-align: right;
+}
