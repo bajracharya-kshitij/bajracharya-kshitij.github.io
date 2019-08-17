@@ -2,20 +2,19 @@
 	text-decoration: none !important;
 }
 .hero-image {
-	background-image: url("https://source.unsplash.com/wl5AypUmamo/1600x900");
-	background-repeat: no-repeat;
-  	background-size: auto;
+	background-image: url("https://source.unsplash.com/wl5AypUmamo");
+	background-size: cover;
 	color: #ffffff;
 }
 .intro {
-	padding: 150px 550px 550px;
+	padding: 5em;
+	text-align: center;
 }
 .follow-me {
-	padding-right: 20px;
-	padding-bottom: 20px;
+	padding: 25em 1em 1em;
 	text-align: right;
 }
 .follow-me a {
-	padding-left: 8px;
+	padding-left: 0.3em;
 	color: #ffffff;
 }
