@@ -1,24 +1,34 @@
 .social-icons {
-	text-decoration: none !important;
+  text-decoration: none !important;
 }
+
 .hero-image {
-	background-image: url("https://source.unsplash.com/wl5AypUmamo");
-	background-size: cover;
-	color: #ffffff;
+  background-image: url("https://source.unsplash.com/wl5AypUmamo");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;   /* ensures visible hero section */
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
+
 .intro {
-	padding: 5em;
-	text-align: center;
+  padding: 5em;
+  text-align: center;
 }
+
 .follow-me {
-	padding: 25em 1em 1em;
-	text-align: right;
+  padding: 2em 1em;
+  text-align: right;
 }
+
 .follow-me a {
-	padding-left: 0.3em;
-	color: #ffffff;
+  padding-left: 0.3em;
+  color: #ffffff;
 }
+
 .pie-image {
-	height: 18em;
-	width: 18em;
+  height: 18em;
+  width: 18em;
 }
